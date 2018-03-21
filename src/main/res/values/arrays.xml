@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names">
+        <item>yes</item>
+        <item>I would think so</item>
+        <item>It is so</item>
+        <item>No</item>
+        <item>Not a chance</item>
+        <item>Never</item>
+        <item>maybe</item>
+        <item>I would rather not say</item>
+
+
+    </string-array>
+
+    <string-array name="icons">
+        <item>action</item>
+        <item>adventure</item>
+        <item>combat</item>
+        <item>moba</item>
+        <item>other</item>
+        <item>role</item>
+        <item>sports</item>
+        <item>words</item>
+
+    </string-array>
+
+
+</resources>
